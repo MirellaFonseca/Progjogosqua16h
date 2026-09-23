@@ -58,4 +58,5 @@ Temos duas formas com o git clone que usa quando você vai baixar pela primeira 
 
 **git diff número da ID_ANTIGO e o ID_NOVO -** ele vai simplesmente comparar as duas versões.
 
+⚠️ Atenção: o sinal + significa que foi adicionado algo e o - é que foi removido algo na atualização.
             
