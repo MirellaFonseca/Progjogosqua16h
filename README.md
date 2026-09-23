@@ -17,6 +17,16 @@ Durante o módulo II, focamos no aprendizado de ferramentas essenciais para o de
 
 ---
 
+## 📂 Materiais de Estudo
+
+GitHub- https://github.com/MirellaFonseca/Progjogosqua16h/blob/main/Anota%C3%A7%C3%B5es%20sobre%20o%20GitHub.md
+
+CSharp-
+https://app.notion.com/p/37bb364aaf46806ab473d1e320b3a6f8
+
+Geral de programação, explicando coisas básicas-
+https://app.notion.com/p/374b364aaf468077bf5ed65da8bd7961
+
 ## 📂 Projetos em Destaque
 
 ### 📌 Meu Primeiro Jogo
