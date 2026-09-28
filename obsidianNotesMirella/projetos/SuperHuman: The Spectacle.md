@@ -1,6 +1,4 @@
-O que faria
-o que gostaria de adicionar
-# nome do jogo
+# SuperHuman: The Spectacle
 ## Indice
 - História(history)
 - Personagens(character)
