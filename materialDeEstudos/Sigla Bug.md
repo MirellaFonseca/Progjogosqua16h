@@ -1,0 +1,3 @@
+- **B**-> Baixar Barreiras
+- **U**-> Usar ferramentas
+- **G**-> Gerar movimento(prática)
