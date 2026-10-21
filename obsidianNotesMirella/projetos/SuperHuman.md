@@ -1,15 +1,4 @@
-# SuperHuman: The Spectacle
-## Indice
-- História(history)
-- Personagens(character)
-- Região
-- NPC
-
-#SUPERHUMAN: THE SPECTACLE
-
-## History
-
-Em um mundo onde algumas pessoas nascem com habilidades especiais, existem dez poderes conhecidos: 
+Conhecidos: 
 Aprimoramento Físico, capacidade de aumentar drasticamente as capacidades físicas do usuário;
 Telecinese, capacidade de mover objetos com a mente; 
 Pirocinese, controle do fogo; 

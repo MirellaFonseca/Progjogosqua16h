@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "progJogos/github.md",
+                "file": "projetos/SuperHuman.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "github"
+              "title": "SuperHuman"
             }
           }
         ]
@@ -190,8 +190,9 @@
   },
   "active": "2483708afbbd1335",
   "lastOpenFiles": [
-    "projetos/Sem título.md",
     "progJogos/github.md",
+    "projetos/SuperHuman.md",
+    "projetos/Sem título.md",
     "Bem-vindo.md",
     "projetos",
     "progJogos"
