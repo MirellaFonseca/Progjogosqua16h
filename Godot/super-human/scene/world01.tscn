@@ -1,18 +1,7 @@
 [gd_scene format=3 uid="uid://6ve3btb7a03e"]
 
-[ext_resource type="Texture2D" uid="uid://ce583s3foadri" path="res://icon.svg" id="1_ulcgi"]
-
-[sub_resource type="RectangleShape2D" id="RectangleShape2D_y7dx1"]
-size = Vector2(122, 122)
+[ext_resource type="PackedScene" uid="uid://c867hfsrpyxu0" path="res://scene/player.tscn" id="1_rr685"]
 
 [node name="World01" type="Node2D" unique_id=77356880]
 
-[node name="player" type="CharacterBody2D" parent="." unique_id=851838678]
-
-[node name="sprite" type="Sprite2D" parent="player" unique_id=1483469352]
-position = Vector2(80, 87)
-texture = ExtResource("1_ulcgi")
-
-[node name="collision" type="CollisionShape2D" parent="player" unique_id=1718261549]
-position = Vector2(80, 87)
-shape = SubResource("RectangleShape2D_y7dx1")
+[node name="player" parent="." unique_id=1957517422 instance=ExtResource("1_rr685")]
